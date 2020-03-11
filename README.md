@@ -1,0 +1,1 @@
+# git-without-admin-install
